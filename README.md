@@ -1,6 +1,6 @@
 # install_zip_gh2
 A function to install packages from GitHub.
-This function is modified by [**yulab.utis**](https://github.com/YuLab-SMU/yulab.utils).
+This function is modified from [**yulab.utis**](https://github.com/YuLab-SMU/yulab.utils).
 
 
 ## usage
