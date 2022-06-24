@@ -1,6 +1,6 @@
 if (!require("yulab.utils", character.only = TRUE)) {
-  install.packages(x, dependencies = TRUE)
-  library(x, character.only = TRUE)
+  install.packages("yulab.utils", dependencies = TRUE)
+  library("yulab.utils", character.only = TRUE)
 }
 
 install_zip_gh2 <- function(repo, ref = "master", proxy_url='https://ghproxy.com/https://github.com/',  args = "--no-build-vignettes") {
